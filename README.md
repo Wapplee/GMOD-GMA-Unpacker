@@ -8,4 +8,4 @@ This URL (https://github.com/Facepunch/garrysmod-issues/issues/1058) taught me t
 ## I do not mind if you use this anywhere, thats why it is unlicensed, but at least give credit to me. It is very simple to do, everything is shown.
 
 
-you are using this at your own risk, i did not experiment this thoroughly, at this time right now it unpacks everything into /garrysmod.
+you are using this at your own risk, i did not experiment this thoroughly.
